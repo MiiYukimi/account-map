@@ -1,0 +1,13 @@
+{
+  "name": "帳號地圖",
+  "short_name": "帳號地圖",
+  "description": "整理不同平台綁定的 Email 與登入方式",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5fb",
+  "theme_color": "#f4eef8",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
